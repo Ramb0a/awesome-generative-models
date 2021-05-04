@@ -18,7 +18,7 @@ At that point the generator can only decrease the quality of its outputs by maki
 
 <img src="gan_equal.png" height="500" />
 
-When the Disciminator acts as a Classifier and 1 is the label for Real and Zero the label for Fake, we get the confusion Matrix: 
+When the Disciminator acts as a Classifier and 1 is the label for Real and 0 the label for Fake, we get the confusion Matrix: 
 
 | Input | Discrimintator Close to 1 | Discriminator Close to 0 |
 | ---- | ---- | --- | 
