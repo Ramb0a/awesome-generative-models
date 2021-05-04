@@ -25,7 +25,7 @@ When the Disciminator acts as a Classifier and 1 is the label for Real and 0 the
 |Real (x) | Positive Postive | False Negative |
 | Fake (*x) | False Positive | Positive Negative |
 
-It is the generators job to evoke all error that it can in the Discriminators judgement through the creation of artifacts that result in false positives, and false negatives. 
+It is the generators job to evoke all error that it can in the Discriminators judgement of its work product through the creation of artifacts that result in false positives, and false negatives. 
 
 ![Gans](gan.jpg)
 
