@@ -29,3 +29,5 @@ It is the generators job to evoke all error that it can in the Discriminators ju
 
 ![Gans](gan.jpg)
 
+
+## Vanilla GAN
