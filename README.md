@@ -18,5 +18,12 @@ At that point the generator can only decrease the quality of its outputs by maki
 
 <img src="gan_equal.png" height="500" />
 
+| Gan Confusion Matrix |
+| ----- |
+| Input | Discrimintator Close to 1 | Discriminator Close to 0 |
+| ---- | ---- | ---| 
+|Real (x) | Positive Postive | False Positive |
+| Fake (*x) | False Positive | Positive Negative 
+
 ![Gans](gan.jpg)
 
