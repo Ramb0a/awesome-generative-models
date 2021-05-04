@@ -29,5 +29,9 @@ It is the generators job to evoke all error that it can in the Discriminators ju
 
 ![Gans](gan.jpg)
 
+The discriminative classifier and the generator train themselves after battle to be better the next time.
+
+<img src="sf.gif" />
+
 
 ## Vanilla GAN
