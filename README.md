@@ -12,4 +12,4 @@ At that point the generator can only decrease the quality of its outputs by maki
 
 ![Gans](gan.jpg)
 
-> GANs consist of two networks whose cost functions are dependent on both of the networks’ parameters. With the cost function, J, the Generator’s cost function is J(G)(θ (G), θ (D)), and the Discriminator’scost function is J(D)(θ (G), θ (D))
+> GANs consist of two networks whose cost functions are dependent on both of the networks’ parameters. 
