@@ -6,8 +6,8 @@ Generative Adversarial networks are minimax games in which a generator (smooth c
 
 ![Gans](gan.jpg)
 
-A GAN is a zero-sum game in which eventually neither player can improve their position with any actions. This Nash equilibrium, and thus training is complete when: 
+In this zero-sum game, eventually neither player can improve their position with any actions. This Nash equilibrium brings training to completion when: 
   * the generator makes perfect fakes
   * the discriminator has a 50/50 chance of identifying real or fake
 
-The generator can only decrease the quality of its outputs by making changes to its routine. 
+At that point the generator can only decrease the quality of its outputs by making changes to its routine. 
