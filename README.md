@@ -11,3 +11,5 @@ In this zero-sum game, eventually neither player can improve their position with
 At that point the generator can only decrease the quality of its outputs by making changes to its routine. 
 
 ![Gans](gan.jpg)
+
+> GANs consist of two networks whose cost functions are dependent on both of the networks’ parameters. With the cost function, J, the Generator’s cost function is J(G)(θ (G), θ (D)), and the Discriminator’scost function is J(D)(θ (G), θ (D))
