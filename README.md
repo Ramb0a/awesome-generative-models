@@ -22,7 +22,7 @@ When the Disciminator acts as a Classifier and 1 is the label for Real and 0 the
 
 | Input | Discrimintator Close to 1 | Discriminator Close to 0 |
 | ---- | ---- | --- | 
-|Real (x) | Positive Postive | False Positive |
+|Real (x) | Positive Postive | False Negative |
 | Fake (*x) | False Positive | Positive Negative |
 
 It is the generators job to evoke all error that it can in the Discriminators judgement.
