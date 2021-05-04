@@ -2,7 +2,7 @@
 
 Generative Adversarial networks are minimax games in which a generator (smooth criminal) tries to fool a discriminator (the cops) into believing the world is flat. 
 
-<img src="flat_earth.gif"  height="500" /> 
+<img src="flat_earth.gif"  height="400" /> 
 
 > Because the Generator and Discriminator can tune only their own parameters and not each other’s, GAN training can be better described as a game, rather than optimization.
 
