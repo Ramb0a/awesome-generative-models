@@ -25,5 +25,6 @@ When the Disciminator acts as a Classifier and 1 is the label for Real and 0 the
 |Real (x) | Positive Postive | False Positive |
 | Fake (*x) | False Positive | Positive Negative |
 
+It is the generators job to evoke all error that it can in the Discriminators judgement.
 ![Gans](gan.jpg)
 
