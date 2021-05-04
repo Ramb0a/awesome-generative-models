@@ -4,7 +4,9 @@ Generative Adversarial networks are minimax games in which a generator (smooth c
 
 <img src="flat_earth.gif"  height="500" /> 
 
-> Because the Generator and Discriminator can tune only their own parameters and not each other’s, GAN training can be better described as a game, rather than optimization
+> Because the Generator and Discriminator can tune only their own parameters and not each other’s, GAN training can be better described as a game, rather than optimization.
+
+> GANs consist of two networks whose cost functions are dependent on both of the networks’ parameters. 
 
 In this zero-sum game, eventually neither player can improve their position with any actions. This happens when both the generator discriminator can no further minimize the loss of the parameters under their control.
 
@@ -14,6 +16,7 @@ The [Nash equilibrium](https://www.investopedia.com/terms/n/nash-equilibrium.asp
 
 At that point the generator can only decrease the quality of its outputs by making changes to its routine. 
 
+<img src="gan_equal.png" height="500" />
+
 ![Gans](gan.jpg)
 
-> GANs consist of two networks whose cost functions are dependent on both of the networks’ parameters. 
