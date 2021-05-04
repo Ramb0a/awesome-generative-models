@@ -2,7 +2,7 @@
 
 Generative Adversarial networks are minimax games in which a generator (smooth criminal) tries to fool a discriminator (the cops) into believing the world is flat. 
 
-<img src="flat_earth.gif" width="100%" height="50%" /> 
+<img src="flat_earth.gif"  height="500" /> 
 
 ![Gans](gan.jpg)
 
