@@ -1,5 +1,9 @@
 # programming-gans
 
+Generative Adversarial networks are minimax games in which a generator (smooth criminal) tries to fool a discriminator (the cops) into believing the world is flat. 
+
+
+
 ![Gans](gan.jpg)
 
 A GAN is a zero-sum game in which eventually neither player can improve their position with any actions. This Nash equilibrium, and thus training is complete when: 
