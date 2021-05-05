@@ -40,7 +40,7 @@ The discriminative classifier and the generator train themselves after battle to
 
 Goodfellow and other put forth the GAN architecture in (2014) in [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 
-<img src="https://render.githubusercontent.com/render/math?math=\large \substack{min\G} \max D V(D,G) = \mathcal{E}_x~p_data(x) [logD(x)] + E_z~p_z(z)[log(1 - D(G(Z)))]">
+<img src="https://render.githubusercontent.com/render/math?math=\large \substack{min\G} \substack{max\D} V(D,G) = \mathcal{E}_x~p_data(x) [logD(x)] + E_z~p_z(z)[log(1 - D(G(Z)))]">
 
 
 # References
