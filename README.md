@@ -34,4 +34,6 @@ The discriminative classifier and the generator train themselves after battle to
 <img src="sf.gif" />
 
 
-## Vanilla GAN
+## [Vanilla GAN](https://youtu.be/HGYYEUSm-0Q)
+
+Goodfellow and other put forth the GAN architecture in (2014) in [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
