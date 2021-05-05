@@ -1,4 +1,6 @@
-#  Awesome Generative Adversarial Networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+#  Awesome Generative Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+## Generative Adversarial Networks
 
 Generative Adversarial networks are minimax games in which a generator (smooth criminal) tries to fool a discriminator (the cops) into believing the world is flat. 
 
@@ -37,6 +39,8 @@ The discriminative classifier and the generator train themselves after battle to
 ## [Vanilla GAN](https://youtu.be/HGYYEUSm-0Q)
 
 Goodfellow and other put forth the GAN architecture in (2014) in [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
+min𝐺max𝐷𝑉(𝐷,𝐺)=𝔼𝑥∼𝑝𝑑𝑎𝑡𝑎(𝑥)[log𝐷(𝑥)]+𝔼𝑧∼𝑝𝑧(𝑧)[log(1−𝐷(𝐺(𝑧)))]
 
 # References
 
