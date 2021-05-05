@@ -42,7 +42,6 @@ Goodfellow and other put forth the GAN architecture in (2014) in [Generative Adv
 
 <img src="https://render.githubusercontent.com/render/math?math=\large \min G \max D V(D,G) = \math{E}_x~p data(x) [logD(x)] + E_z~p_z(z)[log(1 - D(G(Z)))]">
 
-min𝐺max𝐷𝑉(𝐷,𝐺)=𝔼𝑥∼𝑝𝑑𝑎𝑡𝑎(𝑥)[log𝐷(𝑥)]+𝔼𝑧∼𝑝𝑧(𝑧)[log(1−𝐷(𝐺(𝑧)))]
 
 # References
 
