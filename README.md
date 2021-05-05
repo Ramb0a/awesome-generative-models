@@ -37,3 +37,12 @@ The discriminative classifier and the generator train themselves after battle to
 ## [Vanilla GAN](https://youtu.be/HGYYEUSm-0Q)
 
 Goodfellow and other put forth the GAN architecture in (2014) in [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
+# References
+
+(2017) [Towards Principled Methods For Training Generative Adversarial Network](https://arxiv.org/pdf/1701.04862.pdf)
+
+(2017) [Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/pdf/1705.09367.pdf)
+
+(2014 [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+
